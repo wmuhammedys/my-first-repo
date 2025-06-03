@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /Admin
+Disallow: /Uploads
+Disallow: /*.mp4
+Disallow: /Uploads/tupgaz/Video
+
+Sitemap: https://www.aygaz.com.tr/sitemap.xml
+Image Sitemap: https://www.aygaz.com.tr/ImageIndex.xml
